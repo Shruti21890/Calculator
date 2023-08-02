@@ -1,0 +1,41 @@
+
+h1 {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: skyblue;  
+    color: white;  
+    }  
+input{
+      
+    width: 72px;
+    background-color: rgb(70 71 80);
+    color: white;
+    border: 3px solid rgb(49, 48, 48);
+    border-radius: 14px;
+    padding: 25px;
+    margin: 5px;
+    font-size: 17px;
+}
+.formstyle  
+{  
+    width: 400px;
+    height: 561px;
+    border: 3px solid skyblue;
+    border-radius: 5px;
+    padding: 20px;
+    margin: auto;
+}  
+#erase{  
+    width: 330px;
+    border: 3px solid gray;
+    border-radius: 3px;
+    padding: 11px;
+    background-color: #ffa707;
+    }  
+    #Answer{  
+        width: 291px;
+        border: 3px solid black;
+        border-radius: 3px;
+        padding: 23px;
+        margin: auto; 
+        } 
